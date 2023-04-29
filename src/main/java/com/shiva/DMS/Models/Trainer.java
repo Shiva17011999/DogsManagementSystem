@@ -28,6 +28,7 @@ public class Trainer {
 	}
 	public void setTrainerAddress(String trainerAddress) {
 		this.trainerAddress = trainerAddress;
+
 	}
 	
 	@Override
